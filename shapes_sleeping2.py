@@ -2,8 +2,7 @@
 """
 Created on Fri Feb 10 15:10:53 2017
 
-@author: sinkovitsd
-"""
+@author: Leslie Murphy, Patrick Marquard, Ian Gorman"""
 
 import pygame
 from vec2d import Vec2d
